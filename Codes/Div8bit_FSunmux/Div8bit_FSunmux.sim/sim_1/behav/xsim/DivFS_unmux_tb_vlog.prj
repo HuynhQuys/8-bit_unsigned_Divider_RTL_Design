@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Div8bit_FSunmux.srcs/sources_1/new/DisFS_unmux.v" \
+"../../../../Div8bit_FSunmux.srcs/sources_1/new/FS.v" \
+"../../../../Div8bit_FSunmux.srcs/sources_1/new/Mux21.v" \
+"../../../../Div8bit_FSunmux.srcs/sources_1/new/PU.v" \
+"../../../../Div8bit_FSunmux.srcs/sim_1/new/DivFS_unmux_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

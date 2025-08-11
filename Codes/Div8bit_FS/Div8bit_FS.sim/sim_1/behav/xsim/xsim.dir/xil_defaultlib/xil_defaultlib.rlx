@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/New folder/Div8bit_FS/Div8bit_FS.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sim_1/new/DivFS_tb.v,1718392102,verilog,,,,DivFS_tb,,,,,,,,
+D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/DivFS.v,1718391746,verilog,,D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/FS.v,,DivFS,,,,,,,,
+D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/FS.v,1718391222,verilog,,D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/Mux21.v,,FS,,,,,,,,
+D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/Mux21.v,1718391329,verilog,,D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/PU.v,,Mux21,,,,,,,,
+D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sources_1/new/PU.v,1718391609,verilog,,D:/New folder/Div8bit_FS/Div8bit_FS.srcs/sim_1/new/DivFS_tb.v,,PU,,,,,,,,

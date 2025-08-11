@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.srcs/sources_1/new/DivFA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DivFA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.srcs/sources_1/new/FA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.srcs/sources_1/new/Mux21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.srcs/sources_1/new/PU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.srcs/sim_1/new/DivFA_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DivFA_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/KT và TC máy tính/Divider 8bit by Verilog/Codes/Div8bit_FA/Div8bit_FA.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

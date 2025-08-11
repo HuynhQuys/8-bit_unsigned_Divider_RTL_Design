@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/New folder/Div8bit_FSM/Div8bit_FSM.srcs/sources_1/new/Div_FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Div_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/New folder/Div8bit_FSM/Div8bit_FSM.srcs/sim_1/new/DivFSM_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DivFSM_tb

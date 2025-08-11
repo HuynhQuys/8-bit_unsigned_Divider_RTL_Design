@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sim_1/new/DivFA_unmux_tb.v,1718390807,verilog,,,,DivFA_unmux_tb,,,,,,,,
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/DivFA_unmux.v,1718389910,verilog,,D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/FA.v,,DivFA_unmux,,,,,,,,
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/FA.v,1718389690,verilog,,D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/Mux21.v,,FA,,,,,,,,
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/Mux21.v,1718389747,verilog,,D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/PU.v,,Mux21,,,,,,,,
+D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sources_1/new/PU.v,1718389791,verilog,,D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.srcs/sim_1/new/DivFA_unmux_tb.v,,PU,,,,,,,,

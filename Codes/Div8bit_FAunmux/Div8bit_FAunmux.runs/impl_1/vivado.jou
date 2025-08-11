@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Jun 15 01:38:54 2024
+# Process ID: 6528
+# Current directory: D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.runs/impl_1
+# Command line: vivado.exe -log DivFA_unmux.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source DivFA_unmux.tcl -notrace
+# Log file: D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.runs/impl_1/DivFA_unmux.vdi
+# Journal file: D:/New folder/Div8bit_FAunmux/Div8bit_FAunmux.runs/impl_1\vivado.jou
+# Running On: huynhquy, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 8419 MB
+#-----------------------------------------------------------
+source DivFA_unmux.tcl -notrace
